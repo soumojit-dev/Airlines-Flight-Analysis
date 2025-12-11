@@ -1,7 +1,6 @@
 # ✈️ Airline Flight Price Analysis
 
 A complete exploratory data analysis (EDA) project to understand how **flight ticket prices** vary across airlines, travel classes, cities, timings, and days left for departure.  
-This project was completed as part of my **B.Tech CSE (AIML)** learning track.
 
 ---
 
